@@ -1,7 +1,7 @@
 # Hardware abstract
 
 * **gerber.zip** JLCPCB発注用のガーバファイル
-* **BillOfMaterials.xlsx** JLCPCB発注用のBOMファイル
+* **BillOfMaterials.xlsx/.csv** JLCPCB発注用のBOMファイル
 * **PickAndPlace.csv** JLCPCB発注用のPnPファイル
 
 # 主要部品
